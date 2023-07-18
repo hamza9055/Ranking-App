@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44407",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\daugh\\PracticeProject\\repos\\RankingApp\\RankingApp\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
